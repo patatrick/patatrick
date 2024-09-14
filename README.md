@@ -1,6 +1,6 @@
 ## BIENVENIDOS A MI GIT 👋
 
-![Texto alternativo](https://www.holapatrick.com/img/patatrick-banner2.png)
+![Banner](https://www.holapatrick.com/img/patatrick-banner2.png)
 
 ## Sobre mí
 *Me apasiona programar. Cada problemática es un desafío nuevo para mí. Es por eso que estoy en un contínuo aprendizaje de las nuevas tecnologías y frameworks en el desarrollo de programas.*
