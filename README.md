@@ -3,7 +3,7 @@
 ![Banner](https://www.holapatrick.com/img/patatrick-banner2.png)
 
 ## Sobre mí
-*Me apasiona programar. Cada problemática es un desafío nuevo para mí. Es por eso que estoy en un contínuo aprendizaje de las nuevas tecnologías y frameworks en el desarrollo de programas.*
+Programador web Fullstack. Egresado el año 2019 como informático. Aquí encontrarás desde mis primeros proyectos webs hasta los últimos.
 <!--
 **patatrick/patatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
