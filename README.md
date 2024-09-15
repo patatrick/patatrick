@@ -8,6 +8,8 @@
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP)
 ![Visual Basic](https://img.shields.io/badge/-Visual_Basic-05122A?style=flat)
 ![ASP Classic](https://img.shields.io/badge/-ASP_Classic-05122A?style=flat)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-05122A?style=flat&logo=codeigniter)
+![Slim](https://img.shields.io/badge/-SlimFramework-05122A?style=flat)
 ![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.NET)
 ![.NETCore](https://img.shields.io/badge/-.NET_Core-05122A?style=flat&logo=.NET)
 ![JsonWebTokens](https://img.shields.io/badge/-JWT-05122A?style=flat&logo=jsonwebtokens&logoColor=09F2E6)\
@@ -36,6 +38,8 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobeillustrator)\
 ![C_panel](https://img.shields.io/badge/-CPanel-05122A?style=flat&logo=cpanel)
 ![Filezilla](https://img.shields.io/badge/-Filezilla-05122A?style=flat&logo=filezilla&logoColor=B80808)
+![Composer](https://img.shields.io/badge/-Composer-05122A?style=flat&logo=composer)
+![NPM](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm&logoColor=DD2C35)
 
 ## ✌️ Sobre mí
 Programador Fullstack. Egresado el año 2019 como informático 👨‍🎓. Aquí encontrarás desde mis primeros proyectos webs hasta los últimos.
