@@ -1,4 +1,4 @@
-## BIENVENIDOS A MI GIT 👋
+## 💻 BIENVENIDOS A MI GIT 👋
 
 ![Banner](https://www.holapatrick.com/img/patatrick-banner4.png)
 
@@ -35,7 +35,7 @@
 ![C_panel](https://img.shields.io/badge/-CPanel-05122A?style=flat&logo=cpanel&logoColor=FFA518)
 ![Filezilla](https://img.shields.io/badge/-Filezilla-05122A?style=flat&logo=filezilla&logoColor=FFA518)
 
-## Sobre mí
+## ✌️ Sobre mí
 Programador Fullstack. Egresado el año 2019 como informático 👨‍🎓. Aquí encontrarás desde mis primeros proyectos webs hasta los últimos.
 
 El año 2018 comencé a aprender y a desarrollar un proyecto en el instituto donde me formaba como profesional 🤓,
