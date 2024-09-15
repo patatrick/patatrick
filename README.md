@@ -1,6 +1,6 @@
 ## 💪 BIENVENIDOS A MI GIT
 
-![Banner](https://www.holapatrick.com/img/patatrick-banner4.png)
+![Banner](https://www.holapatrick.com/img/patatrick-banner5.png)
 
 ## 🛠 Skills
 ![C_Sharp](https://img.shields.io/badge/-C_Sharp-05122A?style=flat&logo=Sharp)
