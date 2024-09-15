@@ -19,7 +19,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=2D52E4)
 ![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap_v3,_v4,_v5-05122A?style=flat&logo=Bootstrap)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=TailwindCss)
 ![Materialdesign](https://img.shields.io/badge/-Material_Design-05122A?style=flat&logo=Materialdesign)\
 ![AndroidStudio](https://img.shields.io/badge/-Android_Studio-05122A?style=flat&logo=androidstudio)
