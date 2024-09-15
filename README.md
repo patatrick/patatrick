@@ -38,7 +38,8 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobeillustrator)\
 ![C_panel](https://img.shields.io/badge/-CPanel-05122A?style=flat&logo=cpanel)
 ![Filezilla](https://img.shields.io/badge/-Filezilla-05122A?style=flat&logo=filezilla&logoColor=B80808)
-![NuGet](https://img.shields.io/badge/-NuGet-05122A?style=flat&logo=nuget)
+![Terminal](https://img.shields.io/badge/-Terminal-05122A?style=flat&logo=gnometerminal&logoColor=000)
+![NuGet](https://img.shields.io/badge/-NuGet-05122A?style=flat&logo=nuget&logoColor=084F85)
 ![NPM](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm&logoColor=DD2C35)
 ![Composer](https://img.shields.io/badge/-Composer-05122A?style=flat&logo=composer)
 
