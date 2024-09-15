@@ -38,8 +38,9 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobeillustrator)\
 ![C_panel](https://img.shields.io/badge/-CPanel-05122A?style=flat&logo=cpanel)
 ![Filezilla](https://img.shields.io/badge/-Filezilla-05122A?style=flat&logo=filezilla&logoColor=B80808)
-![Composer](https://img.shields.io/badge/-Composer-05122A?style=flat&logo=composer)
+![NuGet](https://img.shields.io/badge/-NuGet-05122A?style=flat&logo=nuget)
 ![NPM](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm&logoColor=DD2C35)
+![Composer](https://img.shields.io/badge/-Composer-05122A?style=flat&logo=composer)
 
 ## ✌️ Sobre mí
 Programador Fullstack. Egresado el año 2019 como informático 👨‍🎓. Aquí encontrarás desde mis primeros proyectos webs hasta los últimos.
