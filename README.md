@@ -18,7 +18,7 @@
 ![Jquery](https://img.shields.io/badge/-Jquery-05122A?style=flat&logo=Jquery&logoColor=FFA518)\
 ![HTML5](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=html5&logoColor=FFA518)
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=FFA518)
-![LESS](https://img.shields.io/badge/-LESS-05122A?style=flat&logo=LESS&logoColor=FFA518)
+![SASS](https://img.shields.io/badge/-SASS-05122A?style=flat&logo=sass&logoColor=FFA518)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=Bootstrap&logoColor=FFA518)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=TailwindCss&logoColor=FFA518)
 ![Materialdesign](https://img.shields.io/badge/-Material_Design-05122A?style=flat&logo=Materialdesign&logoColor=FFA518)\
@@ -27,6 +27,8 @@
 ![SQLServer](https://img.shields.io/badge/-SQLServer-05122A?style=flat&logo=&logoColor=FFA518)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=FFA518)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=FFA518)
+
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git&logoColor=FFA518)
 
 ![Figna](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=FFA518)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobephotoshop&logoColor=FFA518)
