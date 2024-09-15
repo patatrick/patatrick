@@ -1,4 +1,4 @@
-## 💻 BIENVENIDOS A MI GIT 👋
+## 💪 BIENVENIDOS A MI GIT
 
 ![Banner](https://www.holapatrick.com/img/patatrick-banner4.png)
 
