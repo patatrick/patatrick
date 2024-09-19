@@ -60,7 +60,7 @@ Han pasado años y aún me divierte programar 😅 y "colocarme al día" con las
         <header>
           <h3>Música para programar</h3>
         </header>
-        <a href="suno.com/playlist/051563f2-134d-442e-928c-2ff07f678928" target="_BLANK">
+        <a href="https://suno.com/playlist/051563f2-134d-442e-928c-2ff07f678928" target="_BLANK">
           <img src="https://cdn2.suno.ai/dc99b11b.jpeg?width=360" width="100%" />
         </a>
       </article>
