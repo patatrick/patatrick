@@ -51,3 +51,26 @@ en 2019 hice mi práctica laboral en C# donde trabajé con la metodología SCRUM
 Fui evaluado con un 6.5 en una escala de 1 a 7 y en el examen final con un 7 🤝 siendo aprobado con la máxima distinción. 🏅🏅🏅
 
 Han pasado años y aún me divierte programar 😅 y "colocarme al día" con las nuevas tecnologías y frameworks.
+
+## Miscellaneous
+<table width="100%">
+  <tr>
+    <td>
+      <article>
+        <header>
+          <h3>Música para programar</h3>
+        </header>
+        <a href="https://suno.com/playlist/051563f2-134d-442e-928c-2ff07f678928">
+          <img src="https://cdn2.suno.ai/dc99b11b.jpeg?width=360" width="100%" />
+        </a>
+      </article>
+    </td>
+    <td>
+      <article>
+        <figure>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patatrick" width="100%" />
+        </figure>
+      </article>
+    </td>
+  </tr>
+</table>
