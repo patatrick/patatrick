@@ -61,14 +61,14 @@ Han pasado años y aún me divierte programar 😅 y "colocarme al día" con las
           <h3>Música para programar</h3>
         </header>
         <a href="https://suno.com/playlist/051563f2-134d-442e-928c-2ff07f678928" target="_blank">
-          <img src="https://cdn2.suno.ai/dc99b11b.jpeg?width=360" width="100%" />
+          <img src="https://cdn2.suno.ai/dc99b11b.jpeg?width=360" width="80%" />
         </a>
       </article>
     </td>
     <td>
       <article>
         <figure>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patatrick" width="100%" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patatrick" width="120%" />
         </figure>
       </article>
     </td>
